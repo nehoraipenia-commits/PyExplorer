@@ -11,6 +11,4 @@ Make sure you have Python and tkinter installed.
 ```bash
 git clone https://github.com/nehoraipenia-commits/PyExplorer.git
 cd PyExplorer
-python3 files.py
-
-
+python3 pyexplorer.py
