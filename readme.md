@@ -5,6 +5,10 @@ Here are the steps to install and launch the app on your machine.
 ### 📋 Prerequisites
 Make sure you have Python and tkinter installed.
 
+### Website
+
+https://nexeo-pyexplorer.netlify.app/
+
 ### 📦 Installation
 
 1. **Clone the project**
@@ -12,8 +16,3 @@ Make sure you have Python and tkinter installed.
 git clone https://github.com/nehoraipenia-commits/PyExplorer.git
 cd PyExplorer
 python3 pyexplorer.py
-
-
-### Website
-
-https://nexeo-pyexplorer.netlify.app/
