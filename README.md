@@ -14,7 +14,7 @@ Assurez-vous d'avoir Python et tkinter installés.
    ```bash
    git clone https://github.com/nehoraipenia-commits/PyExplorer.git
    cd PyExplorer
-   python3 fichiers.py
+   python3 pyexplorer.py
 
 ### Comment utiliser l'app
 
