@@ -3,7 +3,7 @@
 for the English version 
 https://github.com/nehoraipenia-commits/PyExplorer/blob/main/readme.md
 
-Voici les étapes pour installer et lancer l'assistant sur votre machine.
+Voici les étapes pour installer et lancer l'app sur votre machine.
 
 ### 📋 Prérequis
 Assurez-vous d'avoir Python et tkinter installés.
