@@ -16,6 +16,8 @@ Assurez-vous d'avoir Python et tkinter installés.
    cd PyExplorer
    python3 pyexplorer.py
 
-### Comment utiliser l'app
+### Site web
+
+https://nexeo-pyexplorer.netlify.app/
 
 
